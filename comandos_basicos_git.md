@@ -40,7 +40,8 @@ $ cat config
 ```
 
 - **vincular um repositório local (Computador) ao repositório remoto (github)**
-  comando -> git remote add origin url_do_repositórioGithub
+
+   comando -> git remote add origin url_do_repositórioGithub
 
 ```
 joao@Megatron MINGW64 ~/git/repository/.git (BARE:master)
@@ -198,6 +199,6 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 ```
 
-**OBS 1: O GIT ignora repositórios(pastas) vazios, para reconhecer use crie um arquivo .gitkeep dentro do repositório que vc quer adicionar.**
+**OBS 1: O GIT ignora repositórios(pastas) vazios, para reconhecer crie um arquivo .gitkeep dentro do repositório que vc quer adicionar.**
 
 **OBS 2 : área de preparação é onde selecionamos e salvamos arquivos, "empacotando" para um commit**
